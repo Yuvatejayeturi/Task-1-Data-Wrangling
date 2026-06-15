@@ -1,1 +1,1 @@
-# Task-1-Data-Wrangling
+# Task-1-Data-Wrangling Data cleaning and preprocessing of the Netflix Movies and TV Shows dataset using Python and Pandas. Identified and handled missing values, transformed data types, performed feature engineering, and prepared an analysis-ready dataset for further EDA and visualization.
